@@ -1,0 +1,11 @@
+body {
+	background-color: #c090d1
+}
+
+#cat {
+	height: 250px;
+}
+
+.hidden {
+	display: none
+}
